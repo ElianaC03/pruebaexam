@@ -11,7 +11,7 @@ public class pracexam {
             int numPuestos = scanner.nextInt();
             scanner.nextLine(); // limpiar el buffer
 
-            // 2. Cuántos chapulines
+            // 2. Cuántos chapulines commit esto
             System.out.print("¿Cuántos chapulines competirán? ");
             int numChapulines = scanner.nextInt();
             scanner.nextLine();
